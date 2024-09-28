@@ -73,7 +73,7 @@ pip install requests
 Run the Python script using the following command:
 
 ```bash
-python otp_bomb.py
+python otp-bomb.py
 ```
 
 ### Step 5: Provide Input
