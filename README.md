@@ -79,7 +79,7 @@ python otp_bomb.py
 ### Step 5: Provide Input
 
 Once the script starts, it will ask for the following inputs:
-1. **Mobile Number**: Enter the mobile number in the format starting with `0` (e.g., `0769484049`).
+1. **Mobile Number**: Enter the mobile number in the format starting with `0` (e.g., `07xxxxxxxx`).
 2. **Count**: The number of OTP requests you want to send.
 3. **Delay**: The delay (in seconds) between each request.
 
@@ -88,11 +88,9 @@ The script will then start sending OTP requests and update the status dynamicall
 ## Example
 
 ```bash
->> Enter Mobile number with 0: 0769484049
+>> Enter Mobile number with 0: 07xxxxxxxx
 >> Count: 5
 >> Delay: 1
-Attacked By Yogo    - 5
-Attacked By IdeaBiz - 5
 Attacks            - 10
 
 Summary:
